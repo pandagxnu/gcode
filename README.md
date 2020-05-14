@@ -1,7 +1,11 @@
-gcode (pre-alpha)
+DIY Airfoils you say? Put numbers in, get G-code out!
 =================
 
-This project outputs G-code that is used to control a 4-axis hot wire cutter, employed to cut a wing / airfoil from a physical block of foam.
+
+[![C](https://img.shields.io/badge/language-c-blue.svg)](https://github.com/gregkrsak/gcode/blob/master/gcode.c)
+
+
+This project outputs G-code that is used to control a 4-axis hot wire cutter, employed to cut a wing / airfoil from a physical block of foam. Effectively, it is a slicer for a particular arrangement of raw-coordinate data files.
 
 * [What is G-code?]
 
